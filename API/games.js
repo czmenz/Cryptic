@@ -1,0 +1,89 @@
+export const gamesData = [
+  {
+    id: 'csgo',
+    title: 'Counter-Strike: Global Offensive',
+    heroUrl: 'https://cdn2.steamgriddb.com/hero/7669978d43b45201da2c331c30b78690.jpg',
+    logoUrl: 'https://cdn2.steamgriddb.com/logo/4b52ddb7a0b6ac8553536d004c895b59.png',
+    iconUrl: 'https://cdn2.steamgriddb.com/icon/767a40871fcc018629b26f3a9ff39e19.png',
+    logoPosition: 'center',
+    installed: false,
+    version: '1.0.3',
+    hours: 120,
+    hasUpdate: false,
+    launch_app: 'csgo.exe',
+    install_dir: 'Counter-Strike Global Offensive',
+    changelog: [
+      { date: '2025-09-06', changes: ['Added Anticheat'] },
+      { date: '2025-09-01', changes: ['Added new maps', 'Improved hit registration', 'Bug fixes'] },
+      { date: '2025-08-15', changes: ['Minor balance changes', 'UI tweaks'] },
+      { date: '2025-08-02', changes: ['Update'] },
+      { date: '2025-08-01', changes: ['Initial release'] }
+    ]
+  },
+  {
+    id: 'cs2',
+    title: 'Counter-Strike 2',
+    heroUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/730/library_hero_2x.jpg?t=1749053858',
+    logoUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/730/logo_2x.png?t=1749053858',
+    iconUrl: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/324b323045b09bace182f928f4104dfcd93cb7f3.ico',
+    logoPosition: 'left',
+    installed: true,
+    version: '1.0.3',
+    hours: 120,
+    hasUpdate: false,
+    install_dir: 'Counter-Strike 2',
+    launch_app: 'game\bin\win64\cs2.exe',
+    changelog: [
+      { date: '2025-09-06', changes: ['Added Anticheat'] },
+      { date: '2025-09-01', changes: ['Added new maps', 'Improved hit registration', 'Bug fixes'] },
+      { date: '2025-08-15', changes: ['Minor balance changes', 'UI tweaks'] },
+      { date: '2025-08-02', changes: ['Update'] },
+      { date: '2025-08-01', changes: ['Initial release'] }
+    ]
+  },
+  {
+    id: 'gta5',
+    title: 'GTA V',
+    heroUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/271590/library_hero_2x.jpg?t=1753978889',
+    logoUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/271590/fa0d042ab22aa9ea0628f77454f3df72b5f2d199/logo_2x.png?t=1753978889',
+    iconUrl: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/06b52e09e284542dd99eea45f9f85f68440dbcaf.ico',
+    logoPosition: 'left',
+    installed: true,
+    version: '1.0.0',
+    hours: 0,
+    hasUpdate: true,
+    changelog: [
+      { date: '2025-09-05', changes: ['Initial release'] }
+    ]
+  },
+  {
+    id: 'gta6',
+    title: 'GTA VI',
+    heroUrl: 'https://cdn2.steamgriddb.com/hero/f8f3e2e64f15fb85c3e630d6c6553e9e.jpg',
+    logoUrl: 'https://cdn2.steamgriddb.com/logo/f174efb0a0f25fc826644550a26bc209.png',
+    iconUrl: 'https://cdn2.steamgriddb.com/icon/102ba266ac51ddd8ce981f766b3eb600.png',
+    logoPosition: 'left',
+    installed: false,
+    version: '1.0.0',
+    hours: 0,
+    hasUpdate: false,
+    changelog: [
+      { date: '2026-01-01', changes: ['Initial release'] }
+    ]
+  },
+  {
+    id: 'peak',
+    title: 'Peak',
+    heroUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/3527290/d75184257596a3d2b402c58db0ef28844804e952/library_hero_2x.jpg?t=1754999418',
+    logoUrl: 'https://shared.steamstatic.com/store_item_assets/steam/apps/3527290/7df31d9d967539cfcb161cea0a69edca82f04cdb/logo_2x.png?t=1754999418',
+    iconUrl: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3527290/b3a992fd5991bd2f4c956d58e062b0ce2988d6cd.jpg',
+    logoPosition: 'right',
+    installed: false,
+    version: '1.0.0',
+    hours: 0,
+    hasUpdate: false,
+    changelog: [
+      { date: '2026-01-01', changes: ['Initial release'] }
+    ]
+  }
+];
