@@ -6,6 +6,7 @@
     "logoUrl": "https://cdn2.steamgriddb.com/logo/4b52ddb7a0b6ac8553536d004c895b59.png",
     "iconUrl": "https://cdn2.steamgriddb.com/icon/767a40871fcc018629b26f3a9ff39e19.png",
     "logoPosition": "center",
+    "installed": true,
     "version": "1.0.3",
     "launch_app": "csgo.exe",
     "install_dir": "Counter-Strike Global Offensive",
