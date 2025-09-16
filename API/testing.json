@@ -1,40 +1,42 @@
-[
+{
   "server-name": "Testing Server",
-  "server-author": "Freundlin"
-  {
-    "id": "testing",
-    "title": "Dominik ma maleho pindika",
-    "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/9200/library_hero_2x.jpg?t=1572025732",
-    "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/9200/logo_2x.png?t=1572025732",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg",
-    "logoPosition": "left",
-    "version": "1.0.3",
-    "launch_app": "csgo.exe",
-    "install_dir": "Counter-Strike Global Offensive",
-    "changelog": [
-      { "date": "2025-09-06", "changes": ["Added Anticheat"] },
-      { "date": "2025-09-01", "changes": ["Added new maps", "Improved hit registration", "Bug fixes"] },
-      { "date": "2025-08-15", "changes": ["Minor balance changes", "UI tweaks"] },
-      { "date": "2025-08-02", "changes": ["Update"] },
-      { "date": "2025-08-01", "changes": ["Initial release"] }
-    ]
-  },
-  {
-    "id": "testing",
-    "title": "metro ma maleho pindika",
-    "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/220/5925343a8312ea07f234d48170963aafae4158bf/library_hero_2x.jpg?t=1745368544",
-    "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/220/logo_2x.png?t=1745368544",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/220/85c721efacb1b0903fa11e993291c33da8f643d1.ico",
-    "logoPosition": "center",
-    "version": "1.0.3",
-    "launch_app": "csgo.exe",
-    "install_dir": "Counter-Strike Global Offensive",
-    "changelog": [
-      { "date": "2025-09-06", "changes": ["Added Anticheat"] },
-      { "date": "2025-09-01", "changes": ["Added new maps", "Improved hit registration", "Bug fixes"] },
-      { "date": "2025-08-15", "changes": ["Minor balance changes", "UI tweaks"] },
-      { "date": "2025-08-02", "changes": ["Update"] },
-      { "date": "2025-08-01", "changes": ["Initial release"] }
-    ]
-  }
-]
+  "server-author": "Freundlin",
+  "games": [
+    {
+      "id": "testing",
+      "title": "Dominik ma maleho pindika",
+      "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/9200/library_hero_2x.jpg?t=1572025732",
+      "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/9200/logo_2x.png?t=1572025732",
+      "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg",
+      "logoPosition": "left",
+      "version": "1.0.3",
+      "launch_app": "csgo.exe",
+      "install_dir": "Counter-Strike Global Offensive",
+      "changelog": [
+        { "date": "2025-09-06", "changes": ["Added Anticheat"] },
+        { "date": "2025-09-01", "changes": ["Added new maps", "Improved hit registration", "Bug fixes"] },
+        { "date": "2025-08-15", "changes": ["Minor balance changes", "UI tweaks"] },
+        { "date": "2025-08-02", "changes": ["Update"] },
+        { "date": "2025-08-01", "changes": ["Initial release"] }
+      ]
+    },
+    {
+      "id": "testing2",
+      "title": "metro ma maleho pindika",
+      "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/220/5925343a8312ea07f234d48170963aafae4158bf/library_hero_2x.jpg?t=1745368544",
+      "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/220/logo_2x.png?t=1745368544",
+      "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/220/85c721efacb1b0903fa11e993291c33da8f643d1.ico",
+      "logoPosition": "center",
+      "version": "1.0.3",
+      "launch_app": "csgo.exe",
+      "install_dir": "Counter-Strike Global Offensive",
+      "changelog": [
+        { "date": "2025-09-06", "changes": ["Added Anticheat"] },
+        { "date": "2025-09-01", "changes": ["Added new maps", "Improved hit registration", "Bug fixes"] },
+        { "date": "2025-08-15", "changes": ["Minor balance changes", "UI tweaks"] },
+        { "date": "2025-08-02", "changes": ["Update"] },
+        { "date": "2025-08-01", "changes": ["Initial release"] }
+      ]
+    }
+  ]
+}
