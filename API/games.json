@@ -6,9 +6,7 @@
     "logoUrl": "https://cdn2.steamgriddb.com/logo/4b52ddb7a0b6ac8553536d004c895b59.png",
     "iconUrl": "https://cdn2.steamgriddb.com/icon/767a40871fcc018629b26f3a9ff39e19.png",
     "logoPosition": "center",
-    "installed": false,
     "version": "1.0.3",
-    "hasUpdate": false,
     "launch_app": "csgo.exe",
     "install_dir": "Counter-Strike Global Offensive",
     "changelog": [
@@ -26,9 +24,7 @@
     "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/logo_2x.png?t=1749053858",
     "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/324b323045b09bace182f928f4104dfcd93cb7f3.ico",
     "logoPosition": "left",
-    "installed": true,
     "version": "1.0.3",
-    "hasUpdate": false,
     "install_dir": "Counter-Strike 2",
     "launch_app": "game\\bin\\win64\\cs2.exe",
     "changelog": [
