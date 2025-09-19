@@ -9,7 +9,7 @@
     "version": "1.28.A",
     "launch_app": "peak.exe",
     "install_dir": "Peak",
-    "full_install": "https://download.peak.com"
+    "full_install": "https://download.peak.com",
     "changelog": [
       { "date": "2025-09-17", "changes": ["Initial release"] }
     ]
@@ -24,7 +24,7 @@
     "version": "1.0.3",
     "install_dir": "Counter-Strike 2",
     "launch_app": "game\\bin\\win64\\cs2.exe",
-    "full_install": "https://download.peak.com"
+    "full_install": "https://download.peak.com",
     "changelog": [
       { "date": "2025-08-02", "changes": ["Update"], "hashes": "https://raw.githubusercontent.com/czmenz/Cryptic/refs/heads/main/Games/CS2/1.33.1.json", "update_download": "https://download.cs2.com/update1.33.1"},
       { "date": "2025-08-01", "changes": ["Initial release"] }
