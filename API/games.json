@@ -1,36 +1,5 @@
 [
   {
-    "id": "peak",
-    "title": "Peak",
-    "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/3527290/d75184257596a3d2b402c58db0ef28844804e952/library_hero_2x.jpg?t=1754999418",
-    "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/3527290/7df31d9d967539cfcb161cea0a69edca82f04cdb/logo_2x.png?t=1754999418",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3527290/06c1b9495e8b97739b9dc2f9fc8407fe3bf83b53.ico",
-    "logoPosition": "center",
-    "version": "1.28.A",
-    "launch_app": "peak.exe",
-    "install_dir": "Peak",
-    "full_install": "https://download.peak.com",
-    "changelog": [
-      { "date": "2025-09-17", "changes": ["Initial release"] }
-    ]
-  },
-  {
-    "id": "cs2",
-    "title": "Counter-Strike 2",
-    "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/library_hero_2x.jpg?t=1749053858",
-    "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/logo_2x.png?t=1749053858",
-    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/324b323045b09bace182f928f4104dfcd93cb7f3.ico",
-    "logoPosition": "left",
-    "version": "1.0.3",
-    "install_dir": "Counter-Strike 2",
-    "launch_app": "game\\bin\\win64\\cs2.exe",
-    "full_install": "https://download.peak.com",
-    "changelog": [
-      { "date": "2025-08-02", "changes": ["Update"], "hashes": "https://raw.githubusercontent.com/czmenz/Cryptic/refs/heads/main/Games/CS2/1.33.1.json", "update_download": "https://download.cs2.com/update1.33.1"},
-      { "date": "2025-08-01", "changes": ["Initial release"] }
-    ]
-  },
-  {
     "id": "crosshairx",
     "title": "Crosshair X",
     "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1366800/library_hero.jpg?t=1750794574",
@@ -40,7 +9,7 @@
     "version": "v2024.12.19",
     "install_dir": "CrosshairX",
     "launch_app": "CrosshairX.exe",
-    "full_install": "https://store5.gofile.io/download/web/e7786e1d-e24b-45f6-a499-9db70790661a/CrosshairX.zip",
+    "full_install": "https://megaup.net/c810edb7d8dd2b46fd1f1145fa6d6e6a/CrosshairX.zip",
     "changelog": [
       { "date": "2024-12-19", "changes": ["Initial release"] }
     ]
