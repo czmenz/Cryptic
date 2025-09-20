@@ -29,5 +29,20 @@
       { "date": "2025-08-02", "changes": ["Update"], "hashes": "https://raw.githubusercontent.com/czmenz/Cryptic/refs/heads/main/Games/CS2/1.33.1.json", "update_download": "https://download.cs2.com/update1.33.1"},
       { "date": "2025-08-01", "changes": ["Initial release"] }
     ]
+  },
+  {
+    "id": "crosshairx",
+    "title": "Crosshair X",
+    "heroUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1366800/library_hero.jpg?t=1750794574",
+    "logoUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1366800/logo_2x.png?t=1750794574",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1366800/6d4ca95ba5d095f14bd419c69ae168ed97cc3a97.ico",
+    "logoPosition": "center",
+    "version": "v2024.12.19",
+    "install_dir": "CrosshairX",
+    "launch_app": "CrosshairX.exe",
+    "full_install": "https://store5.gofile.io/download/web/e7786e1d-e24b-45f6-a499-9db70790661a/CrosshairX.zip",
+    "changelog": [
+      { "date": "2024-12-19", "changes": ["Initial release"] }
+    ]
   }
 ]
